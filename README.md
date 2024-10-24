@@ -114,19 +114,6 @@ To set up LifeHub locally, you need the following:
 
    This command will start the development server and automatically open your default browser. You can access the application at `http://localhost:3000`.
 
-## Project Usage Guide 🚀
-
-- **Dashboard**: Once running, LifeHub provides an intuitive dashboard to manage your tasks, notes, schedules, and other organizational needs.
-- **Tasks Management**: Add, edit, or delete tasks, and categorize them by priority or tags.
-- **Time Management**: Utilize the time tracker to stay on track with your tasks, especially useful for maintaining focus.
-- **Note Taking**: Quickly jot down notes and organize them for easy retrieval.
-
-### Key Features ✨
-
-- **Centralized Hub**: Manage all organizational needs from one place.
-- **User-Friendly**: Clean, modern UI designed for usability and accessibility.
-- **Focus Tools**: Tools specifically designed to help those with focus-related challenges.
-
 ## Technologies Used 💻
 
 - **Frontend**: [SvelteKit](https://kit.svelte.dev/) for a highly reactive and fast front-end.
